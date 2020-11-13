@@ -1,0 +1,4 @@
+array is a collection of elements of the same data type, an array is used to store the collection of data
+parameter act as variables inside a method .paarameter are specified after method nameinside the parenthesis
+argumenr is a value passed to a method or function ,during execution of program there are some values passed with function
+encapsulation  the process of binding data and corresponding methods together in to single unit
