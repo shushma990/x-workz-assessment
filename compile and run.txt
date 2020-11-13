@@ -1,0 +1,19 @@
+ difference between compiletime and run time
+ COMPILE TIME 
+ compile time means we write coad in english language  is human understandable that is source coad in compilation source coad is converted in to bytecoad is called compilatime
+  we use javac to compile the program
+  RUNTIME
+  when program executes and  run and give the output is called runtime
+  we use for program for run is javac
+  
+  
+  
+  variable types
+  byte
+  short 
+  int
+  long
+  double
+  char 
+  boolean
+  float
